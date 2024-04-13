@@ -28,7 +28,9 @@ Our study delves into analyzing the deepfake landscape by examining posts and co
 • Conducted Topic Modeling using a framework called BERTopic, which leverages transformers and c-TF-IDF to generate easily interpretable topics. Furthermore, the VADER model was utilized to gauge sentiment expressed in posts and comments.
 
 
-Poster:
+**Poster:**
+
+Scan for more details!
 
 ![Image](HR_poster.png)
 
