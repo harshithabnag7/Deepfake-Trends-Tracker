@@ -30,7 +30,7 @@ Our study delves into analyzing the deepfake landscape by examining posts and co
 
 Poster:
 
-![Image2](MainDashboard.png)
+![Image](HR_poster.png)
 
 
 
